@@ -7,7 +7,7 @@ RotoNet is a novel deep learning framework specifically designed for automated r
 
 ## Experiment
 
-## Result
+## Conclusion
 
 ## Acknowledgement
 This is the project for the course &lt;Introduction to Generative AI>.
