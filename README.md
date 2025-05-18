@@ -20,3 +20,4 @@ For object tracking and segmentation, I used [SAMURAI](https://github.com/yangch
 ## Acknowledgement
 This is the project for the course &lt;Introduction to Generative AI>.
 - [SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory](https://github.com/yangchris11/samurai)
+- [Neural Style Transfer Transition Video Processing](https://github.com/westgarthb/style-transfer-video-processor)
