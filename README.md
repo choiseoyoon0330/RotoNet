@@ -1,5 +1,5 @@
 # RotoNet: Rotoscoping-Based Artistic Style Transfer Networks
-> **Abstract:** RotoNet is a novel deep-learning framework designed for automated rotoscoping-based artistic style transfer in videos. Unlike conventional video style transfer approaches that focus on general stylization, RotoNet captures the distinctive aesthetic qualities of rotoscoping animation-precision in motion tracing, line expressiveness, and artistic interpretation of human movement. 
+> **Abstract:** Conventional video style transfer techniques apply styles uniformly across entire frames, making it challenging to selectively transform specific objects. In this study, we propose **RotoNet**, a novel deep-learning framework that enables object-specific style transfer based on rotoscoping. RotoNet consists of an object tracking network and a style transfer network, aiming to selectively apply artistic styles to targeted objects within a video. By overcoming the limitations of existing style transfer models, RotoNet captures the distinctive aesthetic qualities of rotoscoping animation-precision in motion tracing, line expressiveness, and artistic interpretation of human movement. 
 ## 1. Introduction
 
 
