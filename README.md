@@ -19,7 +19,7 @@ For object tracking and segmentation, I used [SAMURAI](https://github.com/yangch
 
 | Binary Mask            | Stylization             | 
 |----------------------------|---------------------------|
-|<img src="https://github.com/user-attachments/assets/4594b6d9-c3c0-4247-b9f8-f4c6251e6500" width="400"/>|<img src="https://github.com/user-attachments/assets/f4b39b6c-06cc-4d7d-a67c-09ceae0bed09" width="400"/>|
+|<img src="https://github.com/user-attachments/assets/4594b6d9-c3c0-4247-b9f8-f4c6251e6500" width="400"/>|<img src="https://github.com/user-attachments/assets/7773cfcc-f019-44fa-b91d-6c00edd47473" width="400"/>|
 
 
 ## 4. Conclusion
