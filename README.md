@@ -23,6 +23,8 @@ For object tracking and segmentation, I used [SAMURAI](https://github.com/yangch
 
 
 ## 4. Conclusion
+![final_video](https://github.com/user-attachments/assets/65797691-21fd-46c5-8cca-a91c861e11fb)
+
 
 ## Acknowledgement
 This is the final project for the course &lt;Introduction to Generative AI>.
