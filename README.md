@@ -23,8 +23,10 @@ For object tracking and segmentation, I used [SAMURAI](https://github.com/yangch
 
 
 ## 4. Result
-![track](https://github.com/user-attachments/assets/bb5dbf3c-496d-4229-bef1-37c9ca13930b)
+### Style Image
+<img src="https://github.com/user-attachments/assets/5e1c410e-93f9-4afe-b7d2-1e673b7f0755" width="400"/>
 
+### Final Video
 ![final_video](https://github.com/user-attachments/assets/65797691-21fd-46c5-8cca-a91c861e11fb)
 
 
