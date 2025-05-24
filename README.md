@@ -4,6 +4,8 @@
 
 
 ## 2. Method
+<img src="https://github.com/user-attachments/assets/aa24dbf5-2f3e-4eda-9112-bf4b27f02ebd"/>
+
 ### 2.1. Object Tracking & Segmentation
 For object tracking and segmentation, I used [SAMURAI](https://github.com/yangchris11/samurai). SAMURAI offers high-quality mask prediction, supports multi-object tracking, and leverages region-level attention to maintain accurate segmentation across video frames. Another advantage of SAMURAI is that it supports **zero-shot** video object segmentation. With just a prompt on the first frame-such as a point, box, or mask-SAMURAI can segment and track the target object throughout the entire video without any additional training.
 
