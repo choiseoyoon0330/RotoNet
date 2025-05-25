@@ -2,7 +2,7 @@
 > **Abstract:** Conventional video style transfer techniques apply styles uniformly across entire frames, making it challenging to selectively transform specific objects. In this study, I propose RotoNet, a novel deep-learning framework that enables object-specific style transfer based on rotoscoping. RotoNet consists of an object tracking network and a style transfer network, aiming to selectively apply artistic styles to targeted objects within a video. By overcoming the limitations of existing style transfer models, RotoNet captures the distinctive aesthetic qualities of rotoscoping animation-precision in motion tracing, line expressiveness, and artistic interpretation of human movement.
 
 ## 1. Introduction
-
+Rotoscoping is a traditional animation technique that involves manually tracing objects in live-action video frame by frame. While it enables highly realistic motion representation, it is time-consuming, labor-intensive, and requires pre-recorded footage, making it costly and difficult to scale for large projects. To address these limitations, I propose **RotoNet**, a deep learning–based framework for object-specific style transfer in videos. RotoNet aims to automate the rotoscoping process, reduce production time and cost, and improve the efficiency of video stylization.
 
 ## 2. Methods
 <img src="https://github.com/user-attachments/assets/aa24dbf5-2f3e-4eda-9112-bf4b27f02ebd"/>
