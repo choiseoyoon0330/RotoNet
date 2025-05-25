@@ -13,7 +13,7 @@ The overall architecture of RotoNet consists of two main components designed to 
 For accurate object segmentation and tracking in videos, I employ [SAMURAI](https://github.com/yangchris11/samurai). SAMURAI introduces motion-based modeling and a motion-aware memory selection mechanism, enabling robust object tracking even in cluttered and dynamic environments. It supports **zero-shot** video object segmentation, allowing the target object to be segmented and tracked throughout the entire video using only a simple prompt—such as a box or mask—in the first frame, without any additional training. Built upon the Segment Anything Model (SAM), SAMURAI ensures strong segmentation performance and provides spatiotemporal consistency tailored for the video domain.
 
 ### 2.2. Style Transfer
-
+Directly applying image style transfer models to video often leads to a lack of temporal consistency, resulting in frame-to-frame variations known as the "popping effect." To mitigate this temporal discontinuity, I adopt a blending strategy that combines the current frame with the previously stylized frame at a fixed ratio. This creates a **ghosting effect** that enhances temporal coherence across frames, ensuring more consistent stylization and reducing visual artifacts throughout the video.
 
 ## 3. Experiment
 | Original            | Object Tracking & Segmentation              | 
