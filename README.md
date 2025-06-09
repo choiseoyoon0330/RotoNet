@@ -33,7 +33,7 @@ Directly applying image style transfer models to video often leads to a lack of 
 ![final_video](https://github.com/user-attachments/assets/65797691-21fd-46c5-8cca-a91c861e11fb)
 
 
-## Acknowledgement
+## Acknowledgment
 This is the final project for the course &lt;Introduction to Generative AI>.
 - [SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory](https://github.com/yangchris11/samurai)
 - [Neural Style Transfer Transition Video Processing](https://github.com/westgarthb/style-transfer-video-processor)
